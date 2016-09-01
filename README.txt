@@ -9,4 +9,4 @@ Are needed fspecial3.m and showVectorfield3D.m.
 
 ellipsoid_gf generates an ellipsoid for testing purposes.
 
-TODO file for suggestions... 
+TODO file for suggestions... java or C++? 
